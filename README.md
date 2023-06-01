@@ -1,1 +1,1 @@
-## Espaço dedicado aos meus estudos da linguagem PHP 👩🏻‍💻
+## Espaço dedicado aos meus estudos da linguagem PHP 👩🏻‍💻📓
